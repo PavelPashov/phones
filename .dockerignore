@@ -1,0 +1,7 @@
+node_modules
+invoices
+results
+*.zip
+.gitignore
+.env
+numbers

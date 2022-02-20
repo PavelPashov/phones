@@ -1,0 +1,16 @@
+{
+  "name": "phone_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.2",
+    "pdf-creator-node": "^2.3.4",
+    "pdf-merger-js": "^3.3.2"
+  },
+  "description": ""
+}

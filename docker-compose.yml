@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    image: phone-node:latest
+    env_file:
+    - .env
+    volumes:
+      - ./:/usr/src/app
+    container_name: phone-node
